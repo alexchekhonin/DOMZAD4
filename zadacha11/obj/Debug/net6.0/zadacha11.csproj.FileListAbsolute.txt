@@ -1,0 +1,15 @@
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/bin/Debug/net6.0/zadacha11
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/bin/Debug/net6.0/zadacha11.deps.json
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/bin/Debug/net6.0/zadacha11.runtimeconfig.json
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/bin/Debug/net6.0/zadacha11.dll
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/bin/Debug/net6.0/zadacha11.pdb
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.csproj.AssemblyReference.cache
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.AssemblyInfoInputs.cache
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.AssemblyInfo.cs
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.dll
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/refint/zadacha11.dll
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.pdb
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/zadacha11.genruntimeconfig.cache
+/Users/aleksandr/Documents/c#/DOMZAD4/zadacha11/obj/Debug/net6.0/ref/zadacha11.dll
