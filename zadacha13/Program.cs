@@ -5,8 +5,14 @@ Console.WriteLine("Enter value: ");
 int value = Convert.ToInt32(Console.ReadLine());
 
 int a=value / 100; //первое
-int b=value / 10 % 10; //второе
-int c=value % 10; // третье
+int b=value / 10 % 10; //предпоследняя
+int c=value % 10; // последняя
+
+if(a == 0)
+{
+  Console.WriteLine("-> третьей цифры нет");  
+}
+else
 
 Console.WriteLine(value);
 Console.WriteLine(a);
